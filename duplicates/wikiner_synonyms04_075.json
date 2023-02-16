@@ -1,0 +1,421 @@
+{
+    "нейросетевое": [],
+    "gephi": [],
+    "rstudio": [
+        "anylogic",
+        "anylogic"
+    ],
+    "рачинского": [
+        "backlog"
+    ],
+    "estimate activity durations": [
+        "tasks",
+        "product owner",
+        "business intelligence",
+        "federated ai technology enabler",
+        "network science",
+        "simultaneous localization and mapping",
+        "simultaneous localization and mapping"
+    ],
+    "stl": [],
+    "autosar adaptive": [
+        "autosar adap tive",
+        "autosap adaptive platform",
+        "autosar adaptive platform"
+    ],
+    "индустрии": [],
+    "matlab": [],
+    "microsoft solutions framework": [
+        "team foundation server",
+        "rational unified process",
+        "team"
+    ],
+    "государственная": [],
+    "service oriented architecture": [
+        "tasks",
+        "team foundation server",
+        "message passing interface",
+        "team",
+        "autosap adaptive platform"
+    ],
+    "tasks": [
+        "estimate activity durations",
+        "service oriented architecture",
+        "product owner",
+        "business intelligence",
+        "federated ai technology enabler",
+        "network science",
+        "team",
+        "estimate activity resources",
+        "tensorflow federated",
+        "robot operating system",
+        "simultaneous localization and mapping",
+        "simultaneous localization and mapping"
+    ],
+    "product owner": [
+        "estimate activity durations",
+        "tasks",
+        "federated ai technology enabler",
+        "estimate activity resources",
+        "scrum master"
+    ],
+    "java": [],
+    "tensorflow": [
+        "federated ai technology enabler",
+        "tensorflow federated",
+        "pytorch"
+    ],
+    "интернета вещей": [
+        "интернет вещей"
+    ],
+    "anylogic": [
+        "rstudio",
+        "rstudio"
+    ],
+    "team foundation server": [
+        "microsoft solutions framework",
+        "service oriented architecture",
+        "federated ai technology enabler",
+        "rational unified process",
+        "message passing interface",
+        "team"
+    ],
+    "интеллектуальных": [],
+    "все": [],
+    "задачи": [],
+    "sprint": [],
+    "киотский протокол": [],
+    "backlog": [
+        "рачинского",
+        "scrum",
+        "scrum master"
+    ],
+    "deepsee": [
+        "publisher xadsubscriber"
+    ],
+    "андерсона дарлинга": [],
+    "cad/cam/cae": [],
+    "business intelligence": [
+        "estimate activity durations",
+        "tasks",
+        "federated ai technology enabler",
+        "estimate activity resources",
+        "tensorflow federated"
+    ],
+    "fuzzy ": [
+        "ros ",
+        "neuro fuzzy",
+        "с++ ",
+        "c++ "
+    ],
+    "federated ai technology enabler": [
+        "estimate activity durations",
+        "tasks",
+        "product owner",
+        "tensorflow",
+        "team foundation server",
+        "business intelligence",
+        "network science",
+        "team",
+        "estimate activity resources",
+        "tensorflow federated",
+        "robot operating system",
+        "simultaneous localization and mapping",
+        "simultaneous localization and mapping"
+    ],
+    "/ net": [],
+    "бэклог": [],
+    "преддипломная": [],
+    "винера хопфа": [],
+    "rational unified process": [
+        "microsoft solutions framework",
+        "team foundation server",
+        "team"
+    ],
+    "больших данных": [
+        "etl"
+    ],
+    "network science": [
+        "estimate activity durations",
+        "tasks",
+        "federated ai technology enabler",
+        "autosap adaptive platform",
+        "estimate activity resources",
+        "simultaneous localization and mapping",
+        "data science",
+        "simultaneous localization and mapping"
+    ],
+    "soc": [],
+    "карацубы": [],
+    "matlab/simulink": [],
+    "scada": [],
+    "cuda": [],
+    "etl": [
+        "больших данных"
+    ],
+    "sol": [],
+    "ит": [],
+    "orange": [],
+    "svm/sotfmax": [],
+    "дисциплина": [
+        "билет"
+    ],
+    "igraph": [],
+    "iot устройств": [
+        "iot"
+    ],
+    "intranet сети": [
+        "сети"
+    ],
+    "интернет": [
+        "интернет вещей"
+    ],
+    "ros ": [
+        "fuzzy ",
+        "opensplice",
+        "ros",
+        "с++ ",
+        "c++ "
+    ],
+    "кибернетика": [],
+    "autosar adap tive": [
+        "autosar adaptive",
+        "autosap adaptive platform",
+        "autosar adaptive platform"
+    ],
+    "российской федерации": [],
+    "жкх": [],
+    "mdx": [],
+    "visual prolog": [],
+    "с++": [
+        "с++ "
+    ],
+    "message passing interface": [
+        "service oriented architecture",
+        "team foundation server",
+        "team",
+        "mpp"
+    ],
+    "team": [
+        "microsoft solutions framework",
+        "service oriented architecture",
+        "tasks",
+        "team foundation server",
+        "federated ai technology enabler",
+        "rational unified process",
+        "message passing interface",
+        "tensorflow federated"
+    ],
+    "google inc": [],
+    "opensplice": [
+        "ros ",
+        "ros",
+        "rti connext dds"
+    ],
+    "ленина": [],
+    "autosap adaptive platform": [
+        "autosar adaptive",
+        "service oriented architecture",
+        "network science",
+        "autosar adap tive",
+        "autosar adaptive platform"
+    ],
+    "вороного": [
+        "делоне"
+    ],
+    "olap": [],
+    "python": [],
+    "семантическом web": [
+        "семантического web"
+    ],
+    "constraint programming": [],
+    "agile": [],
+    "neuro fuzzy": [
+        "fuzzy ",
+        "neuro технологий"
+    ],
+    "user story": [],
+    "svm": [
+        "softmax"
+    ],
+    "estimate activity resources": [
+        "tasks",
+        "product owner",
+        "business intelligence",
+        "federated ai technology enabler",
+        "network science",
+        "simultaneous localization and mapping",
+        "simultaneous localization and mapping"
+    ],
+    "computational geometry": [],
+    "tff": [],
+    "cmake": [],
+    "tensorflow federated": [
+        "tasks",
+        "tensorflow",
+        "business intelligence",
+        "federated ai technology enabler",
+        "team",
+        "pytorch"
+    ],
+    "k means": [],
+    "коши": [],
+    "ansi pmi pmbok th edition": [],
+    "флинну": [],
+    "plantuml": [],
+    "newsql": [
+        "nosql"
+    ],
+    "scrum": [
+        "backlog",
+        "scrum master"
+    ],
+    "oltp": [],
+    "logtalk": [],
+    "команда": [],
+    "scrum master": [
+        "product owner",
+        "backlog",
+        "scrum"
+    ],
+    "cytoscape": [],
+    "t sql": [
+        "sql"
+    ],
+    "data mining": [
+        "data science"
+    ],
+    "iot": [
+        "iot устройств"
+    ],
+    "производственная": [],
+    "pl/": [],
+    "pajek": [],
+    "нелдера мида": [],
+    "pytorch": [
+        "tensorflow",
+        "tensorflow federated"
+    ],
+    "ляпунова": [],
+    "mpp": [
+        "message passing interface"
+    ],
+    "фурье": [
+        "лапласа"
+    ],
+    "делоне": [
+        "вороного"
+    ],
+    "fpga": [],
+    "publisher xadsubscriber": [
+        "deepsee"
+    ],
+    "петри": [],
+    "ляпунову": [],
+    "компьютером": [],
+    "robot operating system": [
+        "tasks",
+        "federated ai technology enabler"
+    ],
+    "ros": [
+        "ros ",
+        "opensplice"
+    ],
+    "с++ ": [
+        "fuzzy ",
+        "ros ",
+        "с++",
+        "c++ "
+    ],
+    "duckietown": [],
+    "пальма": [],
+    "эвм": [],
+    "билет": [
+        "дисциплина"
+    ],
+    "махалонобиса": [],
+    "михайлова": [],
+    "тп": [],
+    "sprint burndown": [],
+    "ethereum": [],
+    "simultaneous localization and mapping": [
+        "estimate activity durations",
+        "estimate activity durations",
+        "tasks",
+        "tasks",
+        "federated ai technology enabler",
+        "federated ai technology enabler",
+        "network science",
+        "network science",
+        "estimate activity resources",
+        "estimate activity resources"
+    ],
+    "data science": [
+        "network science",
+        "data mining"
+    ],
+    "asp": [],
+    "м ю xa шестопалов": [],
+    "деминга шухарта": [],
+    "numpy": [],
+    "usa": [],
+    "uml": [],
+    "лапласа": [
+        "фурье"
+    ],
+    "sprint burndown chart": [],
+    "системный": [],
+    "autosar adaptive platform": [
+        "autosar adaptive",
+        "autosar adap tive",
+        "autosap adaptive platform"
+    ],
+    "к в xa кринкин": [],
+    "neuro технологий": [
+        "neuro fuzzy"
+    ],
+    "нет": [],
+    "opencv": [],
+    "джарвиса": [],
+    "лидар": [],
+    "c++ ": [
+        "fuzzy ",
+        "ros ",
+        "с++ "
+    ],
+    "r": [],
+    "байесовский": [],
+    "actor critic": [],
+    "sql": [
+        "t sql"
+    ],
+    "fate": [],
+    "em": [],
+    "спринт": [],
+    "softmax": [
+        "svm"
+    ],
+    "нистрома": [],
+    "nosql": [
+        "newsql"
+    ],
+    "gpu": [],
+    "индустрия": [],
+    "dqn": [],
+    "реального времени": [],
+    "arxml": [],
+    "российского": [],
+    "сети": [
+        "intranet сети"
+    ],
+    "семантического web": [
+        "семантическом web"
+    ],
+    "rti connext dds": [
+        "opensplice"
+    ],
+    "интернет вещей": [
+        "интернета вещей",
+        "интернет"
+    ]
+}
