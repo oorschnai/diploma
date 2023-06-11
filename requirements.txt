@@ -1,0 +1,13 @@
+transformers==4.24.0
+torch==1.13.1
+torchvision
+click
+argostranslate==1.7.5
+thefuzz
+python-Levenshtein
+numpy
+keyphrasetransformer
+langdetect
+gensim
+scikit-learn
+re
